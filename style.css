@@ -6,7 +6,7 @@ body {
     border-inline: 2px solid black;
     height: 1200px;
     width: 1200px;
-    background: linear-gradient( to right, rgb(29, 38, 45) 28%, white 10%);
+    background: linear-gradient( to right, rgb(29, 38, 45) 25%, white 20%);
 }
 
 img {
